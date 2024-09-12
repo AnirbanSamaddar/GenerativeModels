@@ -1,2 +1,2 @@
 # GenerativeModels
-This repository contains literature reviews on papers on generative modeling
+This repository contains literature reviews on papers in generative modeling
